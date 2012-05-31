@@ -1,4 +1,7 @@
 #!/usr/bin/perl -w
+# Lawo Config Parser - lacopa
+# Author: Cornelius Wachinger, www.dercorn.com
+# Parses config files for the Nova73 from Lawo and outputs the connection matrix as a .csv file.
 
 use strict;
 use warnings;
